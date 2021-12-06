@@ -1,0 +1,3 @@
+This code was written following the tutorial on LinkedIn. Unfortunately, 
+the material presented is very out of date and appears to contain a variety of errors. 
+I am still including this to record for reference on some of the valid syntax. 
